@@ -1,0 +1,16 @@
+CS146 - Evie Ho
+
+# HW1 - Merge Two Sorted Arrays (Java + JUnit)
+
+## Project Structure
+- `src/main/java/MergeSort.java` - merge method implementation
+- `src/test/java/MergeSortTest.java` - JUnit tests
+
+JUnit tests cover:
+  - basic merge
+  - empty array
+  - duplicates
+  - negative numbers
+  - output length
+
+I made this using IntelliJ IDE
