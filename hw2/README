@@ -1,0 +1,16 @@
+CS146 - Evie Ho
+
+# HW2 - Lomuto Partition + Hoare Partition methods (Java + JUnit)
+
+## Project Structure
+- `src/main/java/PartitionHoare.java` - Hoare partition method implementation
+- `src/main/java/PartitionLomuto.java` - Lomuto partition method implementation
+- `src/test/java/HoarePartitionerTest.java` - JUnit tests
+- `src/test/java/LomutoPartitionerTest.java` - JUnit tests
+
+2 JUnit tests cover 3 test cases from the question
+- Sorted array
+- Empty array
+- Unsorted array
+
+I made this using IntelliJ IDE
